@@ -1,11 +1,12 @@
 # DeepLearning.ai Courses Notes
 # 吴恩达深度学习笔记
-This repository contains my personal notes and summaries on [DeepLearning.ai](https://deeplearning.ai) specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.
 
-此repo包含学习笔记和[官方课程课件](https://deeplearning.ai)，本人将根据自己的理解对笔记进行修改润色，做一个中文版本，帮助大家入门深度学习。
+此repo包含学习笔记和[官方课程课件](https://deeplearning.ai)，本人将根据自己的理解在原作者基础上修改便于理解，帮助大家入门深度学习。
 
-系列课程如下，可以在B站找到视频
-[DeepLearning.ai](https://deeplearning.ai)  contains five courses which can be taken on [Coursera](https://www.coursera.org/specializations/deep-learning). The five courses titles are:
+[深度学习系列课程共有五门](https://deeplearning.ai)可以在B站搜素到英语中字版本，或在[Coursera](https://www.coursera.org/specializations/deep-learning) 上学习：
+
+
+The five courses titles are:
 
 1. Neural Networks and Deep Learning.
 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization.
@@ -17,7 +18,7 @@ This repository contains my personal notes and summaries on [DeepLearning.ai](ht
 
 ## 大佬笔记
 
-- Beautifully drawn notes by Tess Ferrandez:
+-  Tess Ferrandez的笔记链接:
   - https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
 
 ## 有关课程的评论
