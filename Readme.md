@@ -1,7 +1,10 @@
 # DeepLearning.ai Courses Notes
-
+# 吴恩达深度学习笔记
 This repository contains my personal notes and summaries on [DeepLearning.ai](https://deeplearning.ai) specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.
 
+此repo包含学习笔记和[官方课程课件](https://deeplearning.ai)，本人将根据自己的理解对笔记进行修改润色，做一个中文版本，帮助大家入门深度学习。
+
+系列课程如下，可以在B站找到视频
 [DeepLearning.ai](https://deeplearning.ai)  contains five courses which can be taken on [Coursera](https://www.coursera.org/specializations/deep-learning). The five courses titles are:
 
 1. Neural Networks and Deep Learning.
@@ -10,38 +13,14 @@ This repository contains my personal notes and summaries on [DeepLearning.ai](ht
 4. Convolutional Neural Networks.
 5. Sequence Models.
 
-This is by far the best course series on deep learning that I've taken. Enjoy!
+深度学习最好的课程之一，希望大家喜欢，一起进步！
 
-
-
-## About This Specialization (From the official Deep Learning Specialization page)
-
-> If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
->
-> In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.
->
-> You will also hear from many top leaders in Deep Learning, who will share with you their personal stories and give you career advice.
->
-> AI is transforming multiple industries. After finishing this specialization, you will likely find creative ways to apply it to your work.
->
-> We will help you master Deep Learning, understand how to apply it, and build a career in AI.
-
-
-
-## Specialization Certificate
-
-At last I've successfully completed the specialization and earned my [certificate](https://coursera.org/verify/specialization/DTTJC9Y5B8U6)!
-
-![](Certificate.png)
-
-
-
-## Similar Notes
+## 大佬笔记
 
 - Beautifully drawn notes by Tess Ferrandez:
   - https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
 
-## Reviews
+## 有关课程的评论
 
 As [DeepLearning.ai](https://deeplearning.ai) is one of the most popular courses in the field of AI/ML/DL, there are some good reviews regarding some or whole of the specialization courses.
 
@@ -60,28 +39,18 @@ The list of reviews includes:
 
 
 
-A good Facebook group that discusses the courses are here: https://www.facebook.com/groups/DeepLearningAISpecialization/.
-
-Group description:
-
-> This group is for current, past or future students of Prof Andrew Ng's deeplearning.ai class in Coursera. The purpose is for students to get to know each other, ask questions, and share insights. However, remember the Coursera Honor Code - please do not post any solution in the forum! 
 
 
 
-## Next steps
+## 后续学习
 
 Taking [fast.ai](http://www.fast.ai/) courses series as it focuses more on the practical works.
 
-## Acknowledgements
+## 致谢
 
 Thanks to [VladKha](https://github.com/VladKha), [wangzhenhui1992](https://github.com/wangzhenhui1992), [jarpit96](https://github.com/jarpit96), and other contributors for helping me revising and fixing mistakes in the notes.
 
 <br/>
 
-<br/>
 
-<br/>
-
-<br/>
-
-Mahmoud Badry @ 2018
+WEAKCKEN @ 2021
